@@ -1,4 +1,5 @@
 # LOL-Stats
+(Portuguese)
 Projeto focado em juntar informações sobre campeões em League of Legends. 
 
 
@@ -16,3 +17,16 @@ Linguagens utilizadas:
 * HTML;
 * CSS;
 * JavaScript.
+
+(English)
+Project focused on gathering information about champions in League of Legends.
+
+This project was developed based on a friend's idea. The goal of this project is to access the API provided by Riot Games for developers and make requests for information about a summoner's profile, such as their level, profile picture, etc.
+
+Based on that, Visual Studio Code was used along with the "Live Server" extension to develop a website that reads the summoner's name and displays the data of their most recent ranked matches.
+
+Languages used:
+
+HTML;
+CSS;
+JavaScript.
