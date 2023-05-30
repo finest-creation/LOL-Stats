@@ -1,0 +1,102 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-image: url('https://wallpaperaccess.com/full/8359896.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+label {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: serif;
+    margin-top: 10px;
+}
+
+input {
+    margin: auto;
+    border-radius: 4px;
+}
+
+button {
+    margin: auto;
+    padding: 15px 32px;
+    border-radius: 8px;
+    border-color: #d69f2f;
+    font-family: serif;
+    font-size: larger;
+    font-weight: bold;
+    color: #839d9c;
+    background-color: #1a3631;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #2e5e56;
+    color: white;
+}
+
+table, th, td {
+    border-style: ridge;
+    border-collapse: collapse;
+    border-color: #d69f2f;
+    text-align: center;
+    font-family: serif;
+    font-size: larger;
+}
+
+.inserirDados {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-color: #d69f2f;
+    background-image: linear-gradient(to bottom right, #00dcf7, #009ebf, #005773);
+    border-radius: 8px;
+    border-style: outset;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.mostrarDados {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+    border: 5px solid #d69f2f;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background-image: linear-gradient(to bottom right, #00dcf7, #009ebf, #005773);
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.imgPerfil {
+    width: 23%;
+    border: 5px ridge #d69f2f;
+    display: block;
+    margin: auto;
+}
+
+.divTabela {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tabelaHeaders {
+    background-image: linear-gradient(to bottom right, #00dcf7, #009ebf, #005773);
+}
+
+
+
+
